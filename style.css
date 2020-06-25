@@ -41,7 +41,7 @@ body {
 
 .top {
     height: 40vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(back.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.35)), url('https://hbr.org/resources/images/article_assets/2017/01/jan17-17-156624287-1200x675.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
